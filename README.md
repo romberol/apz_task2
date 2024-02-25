@@ -1,0 +1,3 @@
+- Продемонструйте роботу Distributed Map: ```distributed_map_test.py```
+- Продемонструйте роботу Distributed Map with locks: ```no_lock.py```, ```optimistic.py```, ```pessimistic.py```
+- Робота з Bounded queue: ```queue_test.py```
